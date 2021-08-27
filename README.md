@@ -20,6 +20,11 @@ Install the plugin using the cordova command line utility:
 
 `$ cordova plugin add https://github.com/boltex/cordova-plugin-powermanagement.git`
 
+OR
+---
+
+`npm i cordova-plugin-powermanagement2`
+
 Usage
 -----
 
